@@ -38,16 +38,8 @@ body {
     gap: 1.8em;
 }
 
-.nav_links_item {
-
-}
-
 .nav-links_item_no-decor {
     list-style-type: none;
-}
-
-.nav_links_item__link {
-
 }
 
 .nav_links_item__link_active {
@@ -72,12 +64,6 @@ body {
 
 .header__contacts {
     justify-self: end;
-}
-
-.contacts_number {
-}
-
-.contacts_mail {
 }
 
 .cover {
@@ -352,9 +338,6 @@ body {
     display: flex;
     flex-direction: column;
     row-gap: 1.2em;
-}
-
-.no-line-spacing {
 }
 
 .footer {
