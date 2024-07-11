@@ -1,1 +1,1 @@
-Hello little shiny world, hope you're not suffering.
+https://github.com/ossokol/ono-tebe-nado.git
